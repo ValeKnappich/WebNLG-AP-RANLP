@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Knappich
+    given-names: Valentin
+  - family-names: Schrader
+    given-names: Timo Pierre
+    orcid: https://orcid.org/0009-0006-5466-4939
+title: "Controllable Active-Passive Voice Generation using Prefix Tuning"
+version: 1.0.0
+date-released: 09-2023
+preferred-citation:
+  type: proceedings
+  authors:
+  - family-names: Knappich
+    given-names: Valentin
+  - family-names: Schrader
+    given-names: Timo Pierre
+    orcid: https://orcid.org/0009-0006-5466-4939
+  booktitle: "Proceedings of the 8th Student Research Workshop associated with the International Conference Recent Advances in Natural Language Processing"
+  month: "september"
+  address: "Varna, Bulgaria"
+  publisher: "INCOMA Ltd., Shoumen, Bulgaria"
+  url: "https://aclanthology.org/2023.ranlp-stud.3/"
+  title: "Controllable Active-Passive Voice Generation using Prefix Tuning"
+  year: 2023
